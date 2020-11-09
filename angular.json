@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "matching-game"
+    }
+  },
+  "defaultProject": "matching-game",
+  "cli": {
+    "analytics": false
+  }
 }
